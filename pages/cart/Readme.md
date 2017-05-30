@@ -12,4 +12,4 @@
 #### [Модальные окна](modal/) - модальные окна в корзине
 
 
-[![N|Solid](__source/1.png)](https://nodesource.com/products/nsolid)
+
