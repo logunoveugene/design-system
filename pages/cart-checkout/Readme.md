@@ -1,2 +1,2 @@
 ## Основные разделы
-[![N|Solid](1.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](source/1.png)](https://nodesource.com/products/nsolid)
