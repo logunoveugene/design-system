@@ -1,7 +1,7 @@
 ## Основные разделы
 
 
-* [Модальные окна](/Модальные окна/) - ыпп
+* [Модальные окна](/modal/) - ыпп
 * [Ace Editor] - awesome web-based text editor
 * [markdown-it] - Markdown parser done right. Fast and easy to extend.
 
