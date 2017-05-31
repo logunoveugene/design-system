@@ -1,6 +1,6 @@
 ## Содержимое корзины
 
- [пример](#https://github.com/logunoveugene/design-system/tree/master/pages/cart/steps/order-list#Отображение-единицы-товара)
+ [пример](https://github.com/logunoveugene/design-system/tree/master/pages/cart/steps/order-list#Отображение-единицы-товара)
 
 
 
