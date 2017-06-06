@@ -8,7 +8,7 @@
 * [Данные получателя](steps/user-info/) - ввод данных пользователя
 	* [Покупка от частного лица](steps/user-info/personal.md)
 	* [Покупка от организации](steps/user-info/company.md)
-	* [Бонусная программа](steps/user-info/bonus.md) - начасление бонусных баллов за заказ
+	* [Бонусная программа](steps/user-info/bonus.md) 
 * [Способ получения](steps/getting/) - выбор способа получения
 	* [Доставка](steps/getting/delivery/)
 	* [Самовывоз](steps/getting/pickup/)
